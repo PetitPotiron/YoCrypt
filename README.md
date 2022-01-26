@@ -12,7 +12,7 @@ YoCrypt is a new way to encode and decode text symetrically. It works with a key
 * [Your rights](#your-rights)
 
 ## How it works
-The text is encoded/decoded in relation to the key, which is the first word of the text. Thus, the security of your encoded text depends on the length of the first word. If the first word is a single letter, the algorithm is directly the [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher). This algorithm simply applies this method on all the letters of the text, one-by-one.
+The text is encoded and decoded in relation to the key, which is the first word of the text. Thus, the security of your encoded text depends on the length of the first word. If the first word is a single letter, the algorithm is directly the [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher). This algorithm simply applies this method on all the letters of the text, one-by-one.
 
 ### Encoding
 For each letter of the first word, the algorithm takes its alphabet position.
