@@ -11,6 +11,8 @@ YoCrypt is a new way to encode and decode text symetrically. It works with a key
 * * [Documentation](https://yocrypt.readthedocs.io)
 * [Your rights](#your-rights)
 
+[![discord server](https://discord.com/api/guilds/800032961525317693/embed.png)](https://discord.gg/t2dxrXMKya)
+
 ## How it works
 The text is encoded and decoded in relation to the key, which is the first word of the text. Thus, the security of your encoded text depends on the length of the first word. If the first word is a single letter, the algorithm is directly the [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher). This algorithm simply applies this method on all the letters of the text, one-by-one.
 
@@ -113,6 +115,5 @@ This project is licensed under the MIT License. It means you have some permissio
 
 ### Limitations
 * License and copyright notice
-*
 
 For more information, read the `LICENSE` file located in the root of this repository. Don't worry, it's very fast.
