@@ -1,8 +1,8 @@
 # YoCrypt
 YoCrypt is a new way to encode and decode text symetrically. It works with a key and is a variation of the [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher).
 
-[How it works](#)
-[Implementations](#)
+* [How it works](#how-it-works)
+* [Implementations](#implementations)
 
 ## How it works
 ### Encoding
