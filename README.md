@@ -19,9 +19,9 @@ The text is encoded and decoded in relation to the key, which is the first word 
 ### Encoding
 For each letter of the first word, the algorithm takes its alphabet position.
 
-| h | e | l | l | o |
-| - | - | - | -| - |
-| 8 | 5 | 12 | 12 | 15 |
+| letter | h | e | l | l | o |
+| - | - | - | - | -| - |
+| position in the alphabet | 8 | 5 | 12 | 12 | 15 |
 
 
 Then the algorithm overlays the key on the other words, as below.
