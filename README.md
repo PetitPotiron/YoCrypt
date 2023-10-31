@@ -1,5 +1,6 @@
+/!\\ ! When I imagined this algorithm, I thought it was completely new, but in fact Vigenère had already invented it in 1586 😂... It's called [Vigenère's cipher](https://w.wiki/7zFE)
 # YoCrypt
-YoCrypt is a new way to encode and decode text symetrically. It works with a key and is a variation of the [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher).
+YoCrypt is a new way to encode and decode text symetrically. It works with a key and is a remix of the [Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher).
 
 * [How it works](#how-it-works)
 * * [Encoding](#encoding)
